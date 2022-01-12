@@ -20,5 +20,6 @@
   "homepage": "https://github.com/CrashB4ndiSl3Uth/node-express-course#readme",
   "dependencies": {
     "express": "^4.17.2"
-  }
+  },
+  "devDependencies": {}
 }
